@@ -7,7 +7,7 @@ Currently written in Python, a Rust implementation is on the way...
 
 Example lattices from a 1,000,000 step simulation
 
-<img width="876" height="374" alt="lattices" src="https://github.com/user-attachments/assets/84c18652-fd6f-45d8-8d71-cd4bf37a013e" />
+<img width="862" height="376" alt="lattices" src="https://github.com/user-attachments/assets/903482fd-4482-4fa8-951c-74cb19eb19d6" />
 
 Example observables from a 1,000,000 step simulation
 
